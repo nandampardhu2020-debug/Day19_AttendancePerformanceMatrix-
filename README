@@ -1,0 +1,2 @@
+This C program manages attendance and marks for 5 students across 5 subjects.
+It calculates total attendance, total marks, average, and grade for each student and provides multiple reports through a menu-driven system.
